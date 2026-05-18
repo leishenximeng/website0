@@ -1,0 +1,17 @@
+# node
+node_modules/
+
+# vue
+dist/
+
+# java
+target/
+
+# vscode
+.vscode/
+
+# logs
+*.log
+
+# system
+.DS_Store
